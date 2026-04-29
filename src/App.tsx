@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+iimport { useState, useEffect } from 'react';
 import { LayoutDashboard, Smartphone, Menu, X } from 'lucide-react';
 import FieldInputView from './components/FieldInputView';
 import DashboardView from './components/DashboardView';
